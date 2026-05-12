@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'v1.x'
+      - '1.13.6-sp1'
   pull_request:
     types: [opened, synchronize, reopened]
 
